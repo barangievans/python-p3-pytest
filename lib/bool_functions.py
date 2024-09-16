@@ -1,2 +1,3 @@
 def return_true():
-    return False
+    """Function that returns True."""
+    return True
